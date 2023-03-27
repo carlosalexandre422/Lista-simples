@@ -1,0 +1,11 @@
+td{
+    border: none;
+    font-size: 25px;
+}
+th{
+    font-size: 25px;
+    background-color: #b0b0b0;
+}
+tr:nth-last-child(even){
+    background-color: #ddd;
+}
